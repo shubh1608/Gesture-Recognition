@@ -40,7 +40,7 @@ The goal is to develop a cool feature in the smart-TV that can recognise five di
    * 3D Convolutional Network, or Conv3D - 3D convolutions are a natural extension to the 2D convolutions
    
 * Experiment Details
-
+![alt text](https://github.com/shubh1608/Gesture-Recognition/blob/main/Experiment_results.PNG)
 
 ## Getting Started
 
